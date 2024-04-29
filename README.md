@@ -5,8 +5,8 @@
 ### stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=softmaxer&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=softmaxer&theme=prussian&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=softmaxer&theme=onedark&show_icons=true&hide_border=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=softmaxer&theme=onedark&hide_border=false" />
 </p>
 
 ### Languages I speak
